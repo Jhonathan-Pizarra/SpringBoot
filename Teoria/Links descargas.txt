@@ -1,0 +1,8 @@
+https://www.postgresql.org/download/
+password: 123123
+
+https://spring.io/tools
+https://start.spring.io/
+
+
+https://mvnrepository.com/artifact/org.postgresql/postgresql
